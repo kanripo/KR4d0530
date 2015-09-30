@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 蛻菴詩
+#+DATE: 2015-09-23 10:26:55
+#+PROPERTY: JUAN 1
+
+
+　
